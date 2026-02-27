@@ -22,7 +22,7 @@ Here’s a quick breakdown of my main public projects and the skills they showca
 
 Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**, **business intelligence**, and **workflow automation**. I specialize in building production-grade RAG systems, AI agents, and n8n automation pipelines — translating complex AI capabilities into measurable business outcomes.
 
-- 🏆 **Award-Winning Work**: Led UAE National First Prize AI Initiative 2025 (FAHR HR AI Agent)
+- 🏆 **Award-Winning Work**: A client project I worked on, won the UAE National First Prize AI Initiative 2025
 - 🔬 **Published Researcher**: Multiple papers on sequential reasoning, deep learning & neural network optimization
 - 🤖 **10+ production n8n workflows** automating data pipelines, AI integrations & business processes
 - 🌍 Based in **Dubai, UAE**
