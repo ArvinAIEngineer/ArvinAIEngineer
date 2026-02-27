@@ -24,7 +24,7 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 
 - 🏆 **Award-Winning Work**: A client project that I worked on, won the UAE National First Prize AI Initiative 2025
 - 🔬 **Published Researcher**: Multiple papers on sequential reasoning, deep learning & neural network optimization - **[Google Scholar](https://scholar.google.com/citations?user=eFf1lQIAAAAJ&hl=en)**
-- 🤖 **10+ production n8n workflows** automating data pipelines, AI integrations & business processes
+- 🤖 **Recognised as Top Consultant in UAE** [AI Engineer](https://www.twine.net/find/ai-engineers/ae/dubai) [AI Prompt Engineer](https://www.twine.net/find/ai-prompt-engineers/ae)
 - 🌍 Based in **Dubai, UAE**
 
 ---
