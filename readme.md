@@ -154,4 +154,4 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 
 - [LinkedIn](https://www.linkedin.com/in/arvinsubramanian)  
 - [GitHub](https://github.com/arvinaiengineer)  
-- [Email](mailto:arvin@example.com)  
+- [Email](mailto:arvinsubramanian91@gmail.com)  
