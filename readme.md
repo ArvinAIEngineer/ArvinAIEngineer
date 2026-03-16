@@ -22,8 +22,8 @@ Here’s a quick breakdown of my main public projects and the skills they showca
 
 Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**, **business intelligence**, and **workflow automation**. I specialize in building production-grade RAG systems, AI agents, and n8n automation pipelines — translating complex AI capabilities into measurable business outcomes.
 
-- 🏆 **Award-Winning Work**: A client project that I worked on, won the UAE National First Prize AI Initiative 2025
-- 🔬 **Published Researcher**: Multiple papers on sequential reasoning, deep learning & neural network optimization - **[Google Scholar](https://scholar.google.com/citations?user=eFf1lQIAAAAJ&hl=en)**
+- 🏆 **Deep Expertise in Applied AI**: A client project that I worked on, won the UAE National First Prize AI Initiative 2025
+- 🔬 **Research based Practitioner**: Multiple papers on sequential reasoning, deep learning & neural network optimization - **[Google Scholar](https://scholar.google.com/citations?user=eFf1lQIAAAAJ&hl=en)**
 - 🤖 **Recognised as Top Consultant in UAE - [Top 15 in AI Engineer Category](https://www.twine.net/find/ai-engineers/ae/dubai) , [Top 10 in AI Prompt Engineer Category](https://www.twine.net/find/ai-prompt-engineers/ae)**
 - 🌍 Based in **Dubai, UAE**
 
