@@ -29,75 +29,21 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🎓 MSc Artificial Intelligence | De Montfort University (DMU), Dubai | 2025–2026 |
-| 📕 Doctor of Business Administration (DBA) | SP Jain School of Global Management, Dubai | 2022–2025 |
-| 📗 MBA, Communication Management | Symbiosis International University | 2009–2011 |
-
----
-
-## 💼 Professional Experience
-
-<details>
-<summary><b>🏛️ Senior AI Engineer — Blackstone eIT · Oct 2025–Present</b></summary>
-
-- **White-Box RAG System**: Architected a fully transparent, audit-compliant RAG pipeline with 5-phase traceability
-- **Explainable AI (xAI) Framework**: Built a Master Document Registry and complete audit trails from LLM response back to original source documents
-- **Workflow Orchestration**: Deployed 10+ n8n workflows connecting HR AI Agent with 100+ internal systems — reduced manual processing time by **60%**
-
-`Python` `n8n` `LangChain` `OpenAI API` `Claude API` `FAISS` `Pinecone` `PostgreSQL` `Neo4j` `Docker` `Kubernetes` `AWS` `Streamlit` `FastAPI` `PyTorch` `Elasticsearch`
-</details>
-
-<details>
-<summary><b>💹 Senior AI Engineer — Deriv, Dubai · Mar 2025–Sep 2025</b></summary> 
-
-- **AI Design Platform**: Architected a guardrailed creative generator with character consistency, layer editing & brand compliance — achieved **95% compliance** with brand guidelines
-- **Intercom Support Agent**: Real-time AI microservice enhancing 1,000+ daily customer communications; improved CSAT by **20%** and reduced tone violations by **45%**
-- **Figma Intelligence Agent**: Live AI design feedback plugin; reduced design review cycles by **30%** and brand violations by **35%**
-
-`Python` `SQL` `Streamlit` `Flask` `Tableau` `Power BI` `n8n` `AWS Bedrock` `TensorFlow` `PyTorch` `LangChain`
-</details>
-
-<details>
-<summary><b>🤖 Senior AI Specialist — Alpharithm Technologies (IBM Gold Partner) · Feb 2024–Feb 2025</b></summary>
-
-- **Model Performance Monitoring**: Evaluated AI/ML models for finance & healthcare clients via IBM Watsonx; achieved **95% accuracy** in financial document extraction
-- **Data Visualization**: Built Tableau & Power BI dashboards for enterprise clients; conducted statistical analysis using Scikit-learn, SciPy & StatsModels
-- **Ecommerce Agent**: Developed computer vision + LLM solution for automated product listing across 100+ platforms, reducing manual effort by **80%**
-
-`IBM Watsonx` `Python` `SQL` `PostgreSQL` `Tableau` `Power BI` `LangChain` `Milvus` `Docker` `Kubernetes` `AWS` `Azure`
-</details>
-
-<details>
-<summary><b>🎯 AI Consultant — Edvoy · Jan 2023–Feb 2024</b></summary>
-
-- **RAG Systems & n8n Automation**: Designed high-precision RAG systems; built Affiliate Slack Agent monitoring backlinks, UTM tags & social engagement — improved budget allocation by **25%**
-- **Performance Dashboards**: Built governance dashboards tracking LLM metrics (ROUGE, Precision, Recall, F1)
-
-`Python` `SQL` `Tableau` `Streamlit` `Flask` `n8n` `FAISS` `ChromaDB` `Pinecone` `LangChain` `OpenCV`
-</details>
-
-<details>
-<summary><b>🔧 Technical Consultant — Taze IT Solutions · Jan 2012–Jan 2023</b></summary>
-
-- **Database & Analytics**: Managed CRM databases; drove 10,000+ referrals via data-driven SMS campaigns; increased client acquisition by **35%**
-- **Statistical Modeling**: Developed meta-buying strategies for Disney Hotstar & Eros International; improved ROI by **15%**
-
-`Python` `SQL` `JavaScript` `Google Analytics` `HubSpot` `Salesforce` `Google BigQuery` `Meta Ads Manager`
-</details>
-
----
-
-## 🚀 Key Projects
+# 🚀 Key Projects
 
 | Project | Highlights |
 |---------|------------|
-| 🧹 **Master Data Management Platform** | De-duplication engine identifying 50K–200K duplicates using FuzzyWuzzy + n8n; NL query interface for SQL access |
-| 💬 **Conversational Analytics for Tableau** | LangChain ReAct agent enabling natural language queries on live dashboards; FastAPI + Langfuse observability |
-| 📷 **AI Camera-Based Employee Tracking** | Facial recognition (OpenCV + DeepFace) for 3,000+ employees; behavioral analytics + HRMS integration |
+| 🎓 **Study Abroad Counsellor AI Agent** | Conversational persona-building with segmented RAG (UK DB, USA DB); live course data via GraphQL API; OpenAI + FastAPI + AWS ECS |
+| 📄 **Agentic RAG for Insurance** | Two-step agentic RAG (Selector + Synthesizer); human-in-the-loop knowledge curation replacing automated chunking; Google Gemini + PyTesseract OCR |
+| 💬 **Conversational Platform for Global NGO** | WhatsApp automation with multimodal AI (receipt scanning + intent classification); hybrid Vector DB + Neo4j Knowledge Graph; Google Gemini + Supabase |
+| 🛒 **E-commerce Cataloging & Content Generation** | Multimodal Llama 3.x Vision for attribute extraction; platform-specific SEO content (Amazon, eBay); Groq low-latency hosting + React dashboard |
+| 💘 **AI Dating – Cupid as a Service** | Contextual icebreaker generation from matched user profiles; hybrid Vector DB + Knowledge Graph for date/gift recommendations; milestone memory tracking |
+| 🧹 **Master Data Management Platform** | De-duplication engine with FuzzyWuzzy fuzzy matching; identified 50K–200K duplicate records; NL query interface for non-technical marketers |
+| 🎨 **Generative AI Design Studio** | Layer-based editable canvas with integrated brand asset library; AI-assisted headline + imagery generation; React + TypeScript + html2canvas |
+| 🖌️ **AI Brand Guardian – Figma Plugin** | Real-time RAG against full brand design system; UX consistency checker across user flows; A/B test suggestions; Pinecone + GPT-4/Gemini + FastAPI |
+| 🐦 **Autonomous FinTech Influencer Agent** | 24/7 Twitter agent with real-time market scraping; AI meme + "hot take" generation; LangChain orchestration + Vector DB long-term memory |
+| 📷 **AI Camera-Based Employee Tracking** | Facial recognition (OpenCV + DeepFace) for 3,000+ employees; active vs. idle work-hour tracking; behavioral security alerts + HRMS/payroll integration |
+| 📊 **Conversational Analytics for Tableau** | LangChain ReAct agent querying live Tableau datasources via MCP; hallucination-free grounded responses; FastAPI + Langfuse observability + `.trex` extension |
 
 ---
 
@@ -132,7 +78,6 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 ### Vector Databases
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-`ChromaDB` `Milvus` `Neo4j`
 
 ---
 
