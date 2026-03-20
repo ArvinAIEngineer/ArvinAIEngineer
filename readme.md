@@ -33,7 +33,7 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
  
 | Project | Highlights |
 |---------|------------|
-| 📄 **AI Document Ingestion & Retrieval Platform** | Constructed a sophisticated document ingestion pipeline to support accurate knowledge ingestion from Multi-format (PDF, scans, images, URLs), multi-lingual (Arabic + English) and sub-second MCP-ready RAG with department, language & active/archive filters, knowledge graph linking related chunks, answers return exact page/section citations + reasoning trace for a client in Government domain |
+| 📄 **AI Document Ingestion & Retrieval Platform** | Constructed a sophisticated document ingestion pipeline to support accurate knowledge ingestion from Multi-format (PDF, scans, images, URLs), multi-lingual (Arabic + English) and sub-second MCP retrieval with exact page/section citations + reasoning trace for a client in Government domain |
 | 🏦 **AI Document Assistant** | Board note PDF analysis with grammar, date & numerical consistency checks; deterministic hallucination guard cross-validating all LLM figures; Groq Llama 3.1 + PyPDF2/pdfplumber + Streamlit for a Bank Client |
 | 📊 **Conversational BI — AI Assistant Module** | Natural language querying of enterprise sales data with role-aware RBAC; validated SQL generation with graceful fallback; LangChain + GPT-4o + Azure APIM + Redis caching for a Healthcare Client |
 | 📄 **Agentic RAG for Insurance** | Two-step agentic RAG (Selector + Synthesizer); human-in-the-loop knowledge curation replacing automated chunking; Google Gemini + PyTesseract OCR for an Insurance Client |
