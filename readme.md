@@ -27,6 +27,8 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 - 🤖 **Recognised as Top Consultant in UAE - [Top 15 in AI Engineer Category](https://www.twine.net/find/ai-engineers/ae/dubai) , [Top 10 in AI Prompt Engineer Category](https://www.twine.net/find/ai-prompt-engineers/ae)**
 - 🌍 Based in **Dubai, UAE**
 
+---
+
 # 🚀 Key Projects
 
 | Project | Highlights |
@@ -49,6 +51,8 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 | 🖌️ **AI Brand Guardian — Figma Plugin** | Real-time RAG against full brand design system; UX consistency checker across user flows; A/B test suggestions; Pinecone + GPT-4/Gemini + FastAPI for Fintech client|
 | 🐦 **Autonomous FinTech Influencer Agent** | 24/7 social media agent with real-time market scraping; AI meme + "hot take" generation; LangChain orchestration + Vector DB long-term memory for Fintech client|
 | 📈 **Conversational Analytics for Tableau** | LangChain ReAct agent querying live Tableau datasources via MCP; hallucination-free grounded responses; FastAPI + Langfuse observability + `.trex` extension for Bank Client|
+
+---
 
 ## 🛠️ Tech Stack
 
