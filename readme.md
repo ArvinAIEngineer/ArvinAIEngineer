@@ -30,6 +30,8 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 ---
 
 # 🚀 Key Projects
+
+I have led engineering teams and led from front in the below projects for my clients.
  
 | Project | Highlights |
 |---------|------------|
