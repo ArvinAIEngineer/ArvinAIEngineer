@@ -31,28 +31,80 @@ Data-driven AI Analyst & Engineer bridging **AI/ML model performance analysis**,
 
 # 🚀 Key Projects
 
-I have led engineering teams and led from front in the delivering the below projects for my clients.
- 
-| Project | Highlights |
-|---------|------------|
-| 📄 **AI Document Ingestion & Retrieval Platform** | Constructed a sophisticated document ingestion pipeline to support accurate knowledge ingestion from Multi-format (PDF, scans, images, URLs), multi-lingual (Arabic + English) and sub-second MCP retrieval with exact page/section citations + reasoning trace for a client in Government domain |
-| 🏦 **AI Document Assistant** | Board note PDF analysis with grammar, date & numerical consistency checks; deterministic hallucination guard cross-validating all LLM figures; Groq Llama 3.1 + PyPDF2/pdfplumber + Streamlit for a Bank Client |
-| 📊 **Conversational BI — AI Assistant Module** | Natural language querying of enterprise sales data with role-aware RBAC; validated SQL generation with graceful fallback; LangChain + GPT-4o + Azure APIM + Redis caching for a Healthcare Client |
-| 📄 **Agentic RAG for Insurance** | Two-step agentic RAG (Selector + Synthesizer); human-in-the-loop knowledge curation replacing automated chunking; Google Gemini + PyTesseract OCR for an Insurance Client |
-| 🧬 **AI MDM Deduplication** | AI-powered deduplication and Golden Record generation for 500M+ records; GenAI natural language data stewardship; deployed on-premise or cloud in under 90 days for Multiple clients |
-| 📷 **AI Camera-Based Employee Tracking** | Facial recognition (OpenCV + DeepFace) for 3,000+ employees; active vs. idle work-hour tracking for payroll; behavioural security alerts + HRMS/payroll integration for a Manufacturing unit |
-| 🌿 **AI Chatbot & Customer Intelligence Platform** | Website knowledge base scraped and chunked into SQLite; Gemini-powered NLP chatbot widget; entity extraction (name, phone, product interest) + Streamlit admin dashboard for a store |
-| 🕸️ **Banking MDM — Customer 360° Graph Visualization** | Interactive NetworkX + PyVis relationship graph over IBM MDM data model; Customer 360 explorer with entity filtering and physics-based interactivity; Neo4j loader for production scale for Bank Client |
-| 💬 **Conversational Platform for Global NGO** | WhatsApp automation with multimodal AI (receipt scanning + intent classification); hybrid Vector DB + Neo4j Knowledge Graph; Google Gemini + Supabase for a high volume NGO client |
-| 🛒 **E-commerce Cataloging & Content Generation** | Multimodal Llama 3.x Vision for attribute extraction; platform-specific SEO content (Amazon, eBay); Groq low-latency hosting + React dashboard for a global ecommerce client |
-| 🎓 **Study Abroad Counsellor AI Agent** | Conversational persona-building with segmented RAG (UK DB, USA DB); live course data via GraphQL API; OpenAI + FastAPI + AWS ECS for an Edtech Client |
-| 💘 **AI Dating — Cupid as a Service** | Contextual icebreaker generation from matched user profiles; hybrid Vector DB + Knowledge Graph for date/gift recommendations; milestone memory tracking for a dating app client |
-| 🧹 **Master Data Management Platform** | De-duplication engine with FuzzyWuzzy fuzzy matching; identified 50K–200K duplicate records; NL query interface for non-technical marketers for multiple clients |
-| 🎨 **Generative AI Design Studio** | Layer-based editable canvas with integrated brand asset library; AI-assisted headline + imagery generation; React + TypeScript + html2canvas for a Fintech client |
-| 🖌️ **AI Brand Guardian — Figma Plugin** | Real-time RAG against full brand design system; UX consistency checker across user flows; A/B test suggestions; Pinecone + GPT-4/Gemini + FastAPI for Fintech client |
-| 🐦 **Autonomous FinTech Influencer Agent** | 24/7 social media agent with real-time market scraping; AI meme + "hot take" generation; LangChain orchestration + Vector DB long-term memory for Fintech client |
-| 📈 **Conversational Analytics for Tableau** | LangChain ReAct agent querying live Tableau datasources via MCP; hallucination-free grounded responses; FastAPI + Langfuse observability + `.trex` extension for Bank Client |
+# AI & Engineering Portfolio
 
+## AI & Data Intelligence
+
+**📄 AI Document Ingestion Platform** `Government`
+Multi-format, multilingual (AR+EN) pipeline with sub-second MCP retrieval, page-level citations & reasoning trace.
+
+**🏦 AI Document Assistant** `Banking`
+Board note PDF analysis with hallucination guard, grammar, date & numerical consistency checks.
+
+**📊 Conversational BI Assistant** `Healthcare`
+Natural language → validated SQL over enterprise sales data. Role-aware RBAC, GPT-4o, Redis caching.
+
+**📄 Agentic RAG** `Insurance`
+Two-step Selector + Synthesizer agents. Human-in-the-loop curation with OCR via PyTesseract + Gemini.
+
+---
+
+## Master Data & Identity
+
+**🧬 AI MDM Deduplication** `Enterprise`
+AI-powered deduplication & Golden Record generation for 500M+ records. Deployed in under 90 days.
+
+**🕸️ Customer 360° Graph** `Banking`
+Interactive NetworkX + Neo4j relationship explorer built over IBM MDM. Physics-based filtering.
+
+**🧹 MDM Platform** `Multi-client`
+FuzzyWuzzy dedup engine surfacing 50K–200K duplicates. NL query interface for non-technical marketers.
+
+---
+
+## Automation & Operations
+
+**📷 AI Employee Tracking** `Manufacturing`
+Facial recognition (OpenCV + DeepFace) for 3,000+ employees. Payroll-linked idle/active tracking + security alerts.
+
+**💬 Conversational Platform** `NGO`
+WhatsApp automation with receipt scanning, intent classification, hybrid Vector DB + Neo4j Knowledge Graph.
+
+---
+
+## Customer & Commerce
+
+**🌿 AI Chatbot & Customer Intelligence** `Retail`
+Scraped knowledge base → Gemini NLP chatbot widget with entity extraction + Streamlit admin dashboard.
+
+**🛒 E-commerce Cataloging** `Global`
+Multimodal Llama 3.x for attribute extraction + platform-specific SEO content (Amazon, eBay). Groq-hosted.
+
+**💘 AI Dating — Cupid as a Service** `Consumer`
+Contextual icebreakers from matched profiles. Hybrid Vector DB + KG for gift/date recs + milestone memory.
+
+---
+
+## Analytics & Fintech
+
+**📈 Conversational Analytics for Tableau** `Banking`
+LangChain ReAct agent querying live Tableau via MCP. Hallucination-free, Langfuse observability.
+
+**🎨 Generative AI Design Studio** `Fintech`
+Layer-based canvas, brand asset library, AI headline + imagery generation. React + TypeScript.
+
+**🖌️ AI Brand Guardian — Figma Plugin** `Fintech`
+Real-time RAG against brand design system. UX consistency checker + A/B suggestions via Pinecone + GPT-4.
+
+**🐦 Autonomous FinTech Influencer Agent** `Fintech`
+24/7 social agent with market scraping, AI meme + hot-take generation, LangChain + Vector DB memory.
+
+---
+
+## Education & Engagement
+
+**🎓 Study Abroad Counsellor AI Agent** `Edtech`
+Conversational persona-building, segmented RAG (UK + USA DBs), live course data via GraphQL + AWS ECS.
 ---
 
 ## 📊 Core Competencies
